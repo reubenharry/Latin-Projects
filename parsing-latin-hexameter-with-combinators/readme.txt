@@ -1,0 +1,1 @@
+Written years ago when I was learning Haskell. Extremely ugly code. Implements a parser combinator library using monad transformers, scrapes web for a bunch of Latin hexameters, parses them, and saves into a database, for running queries later. Goal was to analyze distribution of rhythms of hexameter, and learn some real world Haksell. 
